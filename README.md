@@ -1,6 +1,6 @@
-# BizAssist AI — PDF-Powered Business Chatbot
+# BizAssist AI (PDF-Powered Business Chatbot)
 
-An intelligent customer support chatbot that lets businesses upload any PDF (menu, catalog, policy doc, FAQ) and instantly get an AI assistant that answers customer questions accurately — powered by RAG (Retrieval-Augmented Generation).
+An intelligent customer support chatbot that lets businesses upload any PDF (menu, catalog, policy doc, FAQ) and instantly get an AI assistant that answers customer questions accurately, powered by RAG (Retrieval-Augmented Generation).
 
 ---
 
